@@ -1,0 +1,26 @@
+[project]
+name = "ml-regpipeline-endtoend"
+version = "0.1.0"
+description = "An end-to-end regression ML pipeline"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "boto3>=1.42.16",
+    "category-encoders>=2.9.0",
+    "evidently>=0.7.18",
+    "fastapi>=0.127.0",
+    "great-expectations>=1.10.0",
+    "lightgbm>=4.6.0",
+    "matplotlib>=3.10.8",
+    "mlflow>=3.8.0",
+    "nbformat>=5.10.4",
+    "numpy>=2.4.0",
+    "optuna>=4.6.0",
+    "pandas>=2.3.3",
+    "polars>=1.36.1",
+    "pytest>=9.0.2",
+    "scikit-learn>=1.8.0",
+    "seaborn>=0.13.2",
+    "streamlit>=1.52.2",
+    "xgboost>=3.1.2",
+]
