@@ -10,6 +10,7 @@ dependencies = [
     "evidently>=0.7.18",
     "fastapi>=0.127.0",
     "great-expectations>=1.10.0",
+    "here>=1.4.1",
     "lightgbm>=4.6.0",
     "matplotlib>=3.10.8",
     "mlflow>=3.8.0",

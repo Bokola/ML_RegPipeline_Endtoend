@@ -778,6 +778,15 @@ wheels = [
 ]
 
 [[package]]
+name = "here"
+version = "1.4.1"
+source = { registry = "https://pypi.org/simple" }
+sdist = { url = "https://files.pythonhosted.org/packages/bd/05/cc1de4b16a2ad0444c27283b6266b92dcfa271b2690b32ea6d6bc795e675/here-1.4.1.tar.gz", hash = "sha256:b969dc174d6879061699ff903ec37a63cddbfd07e2b74107bc7ef13449c65e23", size = 3192, upload-time = "2025-08-12T12:44:05.538Z" }
+wheels = [
+    { url = "https://files.pythonhosted.org/packages/32/99/ec8a150569902ea0eb915d64c5b8f8f40c3679963e4f615066a34e36dc2e/here-1.4.1-py3-none-any.whl", hash = "sha256:3b1b24da7657b86a8a4fbbe40e68710e3a7950867ba52c7a1b8d6ea890a00ad3", size = 3053, upload-time = "2025-08-12T12:44:04.171Z" },
+]
+
+[[package]]
 name = "httpcore"
 version = "1.0.9"
 source = { registry = "https://pypi.org/simple" }
@@ -1232,6 +1241,7 @@ dependencies = [
     { name = "evidently" },
     { name = "fastapi" },
     { name = "great-expectations" },
+    { name = "here" },
     { name = "lightgbm" },
     { name = "matplotlib" },
     { name = "mlflow" },
@@ -1254,6 +1264,7 @@ requires-dist = [
     { name = "evidently", specifier = ">=0.7.18" },
     { name = "fastapi", specifier = ">=0.127.0" },
     { name = "great-expectations", specifier = ">=1.10.0" },
+    { name = "here", specifier = ">=1.4.1" },
     { name = "lightgbm", specifier = ">=4.6.0" },
     { name = "matplotlib", specifier = ">=3.10.8" },
     { name = "mlflow", specifier = ">=3.8.0" },
