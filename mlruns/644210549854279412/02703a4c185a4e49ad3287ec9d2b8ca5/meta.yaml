@@ -1,0 +1,14 @@
+artifact_uri: /home/basil-owiti/ML_RegPipeline_Endtoend/mlruns/644210549854279412/02703a4c185a4e49ad3287ec9d2b8ca5/artifacts
+end_time: 1766849941281
+entry_point_name: ''
+experiment_id: '644210549854279412'
+lifecycle_stage: active
+run_id: 02703a4c185a4e49ad3287ec9d2b8ca5
+run_name: traveling-toad-789
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1766849549667
+status: 3
+tags: []
+user_id: basil-owiti
