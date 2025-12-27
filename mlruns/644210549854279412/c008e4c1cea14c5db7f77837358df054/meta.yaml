@@ -1,0 +1,14 @@
+artifact_uri: /home/basil-owiti/ML_RegPipeline_Endtoend/mlruns/644210549854279412/c008e4c1cea14c5db7f77837358df054/artifacts
+end_time: 1766850119763
+entry_point_name: ''
+experiment_id: '644210549854279412'
+lifecycle_stage: active
+run_id: c008e4c1cea14c5db7f77837358df054
+run_name: gaudy-ox-115
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1766849941305
+status: 3
+tags: []
+user_id: basil-owiti

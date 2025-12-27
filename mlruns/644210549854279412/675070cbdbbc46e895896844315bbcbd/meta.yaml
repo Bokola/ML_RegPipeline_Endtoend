@@ -1,0 +1,14 @@
+artifact_uri: /home/basil-owiti/ML_RegPipeline_Endtoend/mlruns/644210549854279412/675070cbdbbc46e895896844315bbcbd/artifacts
+end_time: 1766853125016
+entry_point_name: ''
+experiment_id: '644210549854279412'
+lifecycle_stage: active
+run_id: 675070cbdbbc46e895896844315bbcbd
+run_name: enthused-eel-805
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1766852998602
+status: 3
+tags: []
+user_id: basil-owiti

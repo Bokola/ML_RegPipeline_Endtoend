@@ -1,0 +1,14 @@
+artifact_uri: /home/basil-owiti/ML_RegPipeline_Endtoend/mlruns/644210549854279412/f0285ad0504c45fa96e8136ce853ed49/artifacts
+end_time: 1766852278390
+entry_point_name: ''
+experiment_id: '644210549854279412'
+lifecycle_stage: active
+run_id: f0285ad0504c45fa96e8136ce853ed49
+run_name: funny-conch-660
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1766852172085
+status: 3
+tags: []
+user_id: basil-owiti

@@ -1,0 +1,10 @@
+artifact_location: /home/basil-owiti/ML_RegPipeline_Endtoend/mlruns/644210549854279412/models/m-54a188ea4bde472e82fc7fe6c2139a02/artifacts
+creation_timestamp: 1766853263510
+experiment_id: '644210549854279412'
+last_updated_timestamp: 1766853263568
+model_id: m-54a188ea4bde472e82fc7fe6c2139a02
+model_type: null
+name: model
+source_run_id: 3c14bbc386d6490d8e364bcac62f1529
+status: 3
+status_message: null
