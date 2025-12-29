@@ -1,0 +1,15 @@
+artifact_uri: /home/basil-owiti/ML_RegPipeline_Endtoend/mlruns/644210549854279412/95685bc146f64efbaa707eba44fa9b90/artifacts
+end_time: 1767028984117
+entry_point_name: ''
+experiment_id: '644210549854279412'
+lifecycle_stage: active
+run_id: 95685bc146f64efbaa707eba44fa9b90
+run_name: silent-boar-878
+run_uuid: 95685bc146f64efbaa707eba44fa9b90
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1767028939046
+status: 3
+tags: []
+user_id: basil-owiti

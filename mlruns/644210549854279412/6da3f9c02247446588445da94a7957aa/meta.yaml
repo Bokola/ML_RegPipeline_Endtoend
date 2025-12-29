@@ -1,0 +1,14 @@
+artifact_uri: /home/basil-owiti/ML_RegPipeline_Endtoend/mlruns/644210549854279412/6da3f9c02247446588445da94a7957aa/artifacts
+end_time: 1766912790372
+entry_point_name: ''
+experiment_id: '644210549854279412'
+lifecycle_stage: active
+run_id: 6da3f9c02247446588445da94a7957aa
+run_name: selective-crane-306
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1766912593389
+status: 3
+tags: []
+user_id: basil-owiti

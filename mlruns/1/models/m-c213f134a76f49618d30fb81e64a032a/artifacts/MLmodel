@@ -1,0 +1,22 @@
+artifact_path: /home/basil-owiti/ML_RegPipeline_Endtoend/mlruns/1/models/m-c213f134a76f49618d30fb81e64a032a/artifacts
+flavors:
+  python_function:
+    data: model.ubj
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.xgboost
+    python_version: 3.11.13
+  xgboost:
+    code: null
+    data: model.ubj
+    model_class: src.training_pipeline.ai_tune.SklearnXGBRegressor
+    model_format: ubj
+    xgb_version: 3.0.4
+mlflow_version: 3.8.1
+model_id: m-c213f134a76f49618d30fb81e64a032a
+model_size_bytes: 790398
+model_uuid: m-c213f134a76f49618d30fb81e64a032a
+prompts: null
+run_id: 284c43aba0ba4a2aa8eeb5bf714d6fe1
+utc_time_created: '2025-12-28 12:52:51.004536'

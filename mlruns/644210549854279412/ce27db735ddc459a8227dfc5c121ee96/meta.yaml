@@ -1,0 +1,14 @@
+artifact_uri: /home/basil-owiti/ML_RegPipeline_Endtoend/mlruns/644210549854279412/ce27db735ddc459a8227dfc5c121ee96/artifacts
+end_time: 1766924836377
+entry_point_name: ''
+experiment_id: '644210549854279412'
+lifecycle_stage: active
+run_id: ce27db735ddc459a8227dfc5c121ee96
+run_name: wise-smelt-906
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1766924822153
+status: 3
+tags: []
+user_id: basil-owiti

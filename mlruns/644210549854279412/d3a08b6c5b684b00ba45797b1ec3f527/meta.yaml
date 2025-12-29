@@ -1,0 +1,14 @@
+artifact_uri: /home/basil-owiti/ML_RegPipeline_Endtoend/mlruns/644210549854279412/d3a08b6c5b684b00ba45797b1ec3f527/artifacts
+end_time: 1766912636130
+entry_point_name: ''
+experiment_id: '644210549854279412'
+lifecycle_stage: active
+run_id: d3a08b6c5b684b00ba45797b1ec3f527
+run_name: nervous-fly-565
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1766912593393
+status: 3
+tags: []
+user_id: basil-owiti

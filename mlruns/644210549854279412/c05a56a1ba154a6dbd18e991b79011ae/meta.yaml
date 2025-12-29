@@ -1,0 +1,14 @@
+artifact_uri: /home/basil-owiti/ML_RegPipeline_Endtoend/mlruns/644210549854279412/c05a56a1ba154a6dbd18e991b79011ae/artifacts
+end_time: 1766917225383
+entry_point_name: ''
+experiment_id: '644210549854279412'
+lifecycle_stage: active
+run_id: c05a56a1ba154a6dbd18e991b79011ae
+run_name: useful-moth-205
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1766917186138
+status: 3
+tags: []
+user_id: basil-owiti

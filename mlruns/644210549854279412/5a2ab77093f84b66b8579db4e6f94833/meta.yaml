@@ -1,0 +1,14 @@
+artifact_uri: /home/basil-owiti/ML_RegPipeline_Endtoend/mlruns/644210549854279412/5a2ab77093f84b66b8579db4e6f94833/artifacts
+end_time: 1766919157190
+entry_point_name: ''
+experiment_id: '644210549854279412'
+lifecycle_stage: active
+run_id: 5a2ab77093f84b66b8579db4e6f94833
+run_name: illustrious-crow-349
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1766919073482
+status: 3
+tags: []
+user_id: basil-owiti

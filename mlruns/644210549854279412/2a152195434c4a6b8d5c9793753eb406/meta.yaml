@@ -1,0 +1,14 @@
+artifact_uri: /home/basil-owiti/ML_RegPipeline_Endtoend/mlruns/644210549854279412/2a152195434c4a6b8d5c9793753eb406/artifacts
+end_time: 1766915742776
+entry_point_name: ''
+experiment_id: '644210549854279412'
+lifecycle_stage: active
+run_id: 2a152195434c4a6b8d5c9793753eb406
+run_name: bustling-pug-7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1766915732014
+status: 3
+tags: []
+user_id: basil-owiti

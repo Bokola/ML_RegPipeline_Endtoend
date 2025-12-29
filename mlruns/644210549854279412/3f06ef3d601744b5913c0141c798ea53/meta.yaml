@@ -1,0 +1,15 @@
+artifact_uri: /home/basil-owiti/ML_RegPipeline_Endtoend/mlruns/644210549854279412/3f06ef3d601744b5913c0141c798ea53/artifacts
+end_time: 1767032050336
+entry_point_name: ''
+experiment_id: '644210549854279412'
+lifecycle_stage: active
+run_id: 3f06ef3d601744b5913c0141c798ea53
+run_name: salty-worm-305
+run_uuid: 3f06ef3d601744b5913c0141c798ea53
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1767031969895
+status: 3
+tags: []
+user_id: basil-owiti

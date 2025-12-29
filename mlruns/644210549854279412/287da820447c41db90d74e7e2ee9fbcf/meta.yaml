@@ -1,0 +1,14 @@
+artifact_uri: /home/basil-owiti/ML_RegPipeline_Endtoend/mlruns/644210549854279412/287da820447c41db90d74e7e2ee9fbcf/artifacts
+end_time: 1766913112300
+entry_point_name: ''
+experiment_id: '644210549854279412'
+lifecycle_stage: active
+run_id: 287da820447c41db90d74e7e2ee9fbcf
+run_name: stylish-shrew-835
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1766912786227
+status: 3
+tags: []
+user_id: basil-owiti

@@ -1,0 +1,14 @@
+artifact_uri: /home/basil-owiti/ML_RegPipeline_Endtoend/mlruns/644210549854279412/c86bf1586de449dc8a79ac3cd86379c0/artifacts
+end_time: 1766919983595
+entry_point_name: ''
+experiment_id: '644210549854279412'
+lifecycle_stage: active
+run_id: c86bf1586de449dc8a79ac3cd86379c0
+run_name: popular-koi-436
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1766919958580
+status: 3
+tags: []
+user_id: basil-owiti

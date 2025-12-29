@@ -1,0 +1,15 @@
+artifact_uri: /home/basil-owiti/ML_RegPipeline_Endtoend/mlruns/644210549854279412/96587a3320d646ff87bf941eac71f863/artifacts
+end_time: 1767037584665
+entry_point_name: ''
+experiment_id: '644210549854279412'
+lifecycle_stage: active
+run_id: 96587a3320d646ff87bf941eac71f863
+run_name: omniscient-swan-937
+run_uuid: 96587a3320d646ff87bf941eac71f863
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1767037553177
+status: 3
+tags: []
+user_id: basil-owiti

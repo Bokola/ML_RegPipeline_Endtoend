@@ -1,0 +1,15 @@
+artifact_uri: /home/basil-owiti/ML_RegPipeline_Endtoend/mlruns/644210549854279412/5ded95d3b7b5408887ee1b2f7279fc89/artifacts
+end_time: 1767036446608
+entry_point_name: ''
+experiment_id: '644210549854279412'
+lifecycle_stage: active
+run_id: 5ded95d3b7b5408887ee1b2f7279fc89
+run_name: defiant-cub-246
+run_uuid: 5ded95d3b7b5408887ee1b2f7279fc89
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1767036396172
+status: 3
+tags: []
+user_id: basil-owiti

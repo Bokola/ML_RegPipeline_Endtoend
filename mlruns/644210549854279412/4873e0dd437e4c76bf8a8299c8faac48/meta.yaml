@@ -1,0 +1,14 @@
+artifact_uri: /home/basil-owiti/ML_RegPipeline_Endtoend/mlruns/644210549854279412/4873e0dd437e4c76bf8a8299c8faac48/artifacts
+end_time: 1766913090788
+entry_point_name: ''
+experiment_id: '644210549854279412'
+lifecycle_stage: active
+run_id: 4873e0dd437e4c76bf8a8299c8faac48
+run_name: trusting-gnat-507
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1766912790607
+status: 3
+tags: []
+user_id: basil-owiti

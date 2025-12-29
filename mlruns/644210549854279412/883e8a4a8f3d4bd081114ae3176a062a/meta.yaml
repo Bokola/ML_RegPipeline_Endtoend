@@ -1,0 +1,14 @@
+artifact_uri: /home/basil-owiti/ML_RegPipeline_Endtoend/mlruns/644210549854279412/883e8a4a8f3d4bd081114ae3176a062a/artifacts
+end_time: 1766917252798
+entry_point_name: ''
+experiment_id: '644210549854279412'
+lifecycle_stage: active
+run_id: 883e8a4a8f3d4bd081114ae3176a062a
+run_name: debonair-calf-948
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1766917225396
+status: 3
+tags: []
+user_id: basil-owiti

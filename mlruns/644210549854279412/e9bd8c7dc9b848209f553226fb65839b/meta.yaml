@@ -1,0 +1,14 @@
+artifact_uri: /home/basil-owiti/ML_RegPipeline_Endtoend/mlruns/644210549854279412/e9bd8c7dc9b848209f553226fb65839b/artifacts
+end_time: 1766922014838
+entry_point_name: ''
+experiment_id: '644210549854279412'
+lifecycle_stage: active
+run_id: e9bd8c7dc9b848209f553226fb65839b
+run_name: resilient-crow-570
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1766921994245
+status: 3
+tags: []
+user_id: basil-owiti

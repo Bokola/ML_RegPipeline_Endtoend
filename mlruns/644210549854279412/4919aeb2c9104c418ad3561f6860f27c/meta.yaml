@@ -1,0 +1,14 @@
+artifact_uri: /home/basil-owiti/ML_RegPipeline_Endtoend/mlruns/644210549854279412/4919aeb2c9104c418ad3561f6860f27c/artifacts
+end_time: 1766919203646
+entry_point_name: ''
+experiment_id: '644210549854279412'
+lifecycle_stage: active
+run_id: 4919aeb2c9104c418ad3561f6860f27c
+run_name: gifted-shoat-401
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1766919167500
+status: 3
+tags: []
+user_id: basil-owiti

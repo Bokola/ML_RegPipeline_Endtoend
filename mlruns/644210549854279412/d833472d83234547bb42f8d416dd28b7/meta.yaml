@@ -1,0 +1,15 @@
+artifact_uri: /home/basil-owiti/ML_RegPipeline_Endtoend/mlruns/644210549854279412/d833472d83234547bb42f8d416dd28b7/artifacts
+end_time: 1767037974648
+entry_point_name: ''
+experiment_id: '644210549854279412'
+lifecycle_stage: active
+run_id: d833472d83234547bb42f8d416dd28b7
+run_name: kindly-wren-656
+run_uuid: d833472d83234547bb42f8d416dd28b7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1767037935926
+status: 3
+tags: []
+user_id: basil-owiti

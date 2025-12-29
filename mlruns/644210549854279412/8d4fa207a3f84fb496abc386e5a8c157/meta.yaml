@@ -1,0 +1,14 @@
+artifact_uri: /home/basil-owiti/ML_RegPipeline_Endtoend/mlruns/644210549854279412/8d4fa207a3f84fb496abc386e5a8c157/artifacts
+end_time: 1766912954016
+entry_point_name: ''
+experiment_id: '644210549854279412'
+lifecycle_stage: active
+run_id: 8d4fa207a3f84fb496abc386e5a8c157
+run_name: stylish-ray-902
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1766912593370
+status: 3
+tags: []
+user_id: basil-owiti

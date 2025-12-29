@@ -1,0 +1,15 @@
+artifact_uri: /home/basil-owiti/ML_RegPipeline_Endtoend/mlruns/644210549854279412/cbe53f86a4a9492b8a8dd3feb6b102d0/artifacts
+end_time: 1767030217487
+entry_point_name: ''
+experiment_id: '644210549854279412'
+lifecycle_stage: active
+run_id: cbe53f86a4a9492b8a8dd3feb6b102d0
+run_name: bald-steed-328
+run_uuid: cbe53f86a4a9492b8a8dd3feb6b102d0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1767030172844
+status: 3
+tags: []
+user_id: basil-owiti

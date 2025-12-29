@@ -1,0 +1,14 @@
+artifact_uri: /home/basil-owiti/ML_RegPipeline_Endtoend/mlruns/644210549854279412/0a640b7647e24e569ddaa27e7eb34b82/artifacts
+end_time: 1766924570188
+entry_point_name: ''
+experiment_id: '644210549854279412'
+lifecycle_stage: active
+run_id: 0a640b7647e24e569ddaa27e7eb34b82
+run_name: fun-hog-183
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1766924551015
+status: 3
+tags: []
+user_id: basil-owiti

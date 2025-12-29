@@ -1,0 +1,14 @@
+artifact_uri: /home/basil-owiti/ML_RegPipeline_Endtoend/mlruns/644210549854279412/7f82e520547b47d29bc37216f5f8f4d3/artifacts
+end_time: 1766922247699
+entry_point_name: ''
+experiment_id: '644210549854279412'
+lifecycle_stage: active
+run_id: 7f82e520547b47d29bc37216f5f8f4d3
+run_name: youthful-shad-858
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1766922227073
+status: 3
+tags: []
+user_id: basil-owiti

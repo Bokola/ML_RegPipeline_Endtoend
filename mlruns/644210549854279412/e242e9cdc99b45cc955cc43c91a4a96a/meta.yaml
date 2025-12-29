@@ -1,0 +1,14 @@
+artifact_uri: /home/basil-owiti/ML_RegPipeline_Endtoend/mlruns/644210549854279412/e242e9cdc99b45cc955cc43c91a4a96a/artifacts
+end_time: 1766912684876
+entry_point_name: ''
+experiment_id: '644210549854279412'
+lifecycle_stage: active
+run_id: e242e9cdc99b45cc955cc43c91a4a96a
+run_name: popular-quail-813
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1766912593379
+status: 3
+tags: []
+user_id: basil-owiti

@@ -1,0 +1,14 @@
+artifact_uri: /home/basil-owiti/ML_RegPipeline_Endtoend/mlruns/644210549854279412/b642fc8964bd4d0b85076635b2cd979f/artifacts
+end_time: 1766917337919
+entry_point_name: ''
+experiment_id: '644210549854279412'
+lifecycle_stage: active
+run_id: b642fc8964bd4d0b85076635b2cd979f
+run_name: serious-mouse-344
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1766917295890
+status: 3
+tags: []
+user_id: basil-owiti
