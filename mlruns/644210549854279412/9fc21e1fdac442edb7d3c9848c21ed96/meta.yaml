@@ -1,0 +1,14 @@
+artifact_uri: /home/basil-owiti/ML_RegPipeline_Endtoend/mlruns/644210549854279412/9fc21e1fdac442edb7d3c9848c21ed96/artifacts
+end_time: 1766914155962
+entry_point_name: ''
+experiment_id: '644210549854279412'
+lifecycle_stage: active
+run_id: 9fc21e1fdac442edb7d3c9848c21ed96
+run_name: gifted-vole-239
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1766914041615
+status: 3
+tags: []
+user_id: basil-owiti

@@ -1,0 +1,14 @@
+artifact_uri: /home/basil-owiti/ML_RegPipeline_Endtoend/mlruns/644210549854279412/ce2a47b732124bedae046d8eb7f1fd69/artifacts
+end_time: 1766914134305
+entry_point_name: ''
+experiment_id: '644210549854279412'
+lifecycle_stage: active
+run_id: ce2a47b732124bedae046d8eb7f1fd69
+run_name: fortunate-finch-864
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1766914029302
+status: 3
+tags: []
+user_id: basil-owiti

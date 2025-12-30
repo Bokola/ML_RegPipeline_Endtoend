@@ -1,0 +1,15 @@
+artifact_uri: /home/basil-owiti/ML_RegPipeline_Endtoend/mlruns/644210549854279412/4ee5847c0e4f42469ce6cfeea193461a/artifacts
+end_time: 1767036076936
+entry_point_name: ''
+experiment_id: '644210549854279412'
+lifecycle_stage: active
+run_id: 4ee5847c0e4f42469ce6cfeea193461a
+run_name: auspicious-grub-166
+run_uuid: 4ee5847c0e4f42469ce6cfeea193461a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1767036022218
+status: 3
+tags: []
+user_id: basil-owiti

@@ -1,0 +1,15 @@
+artifact_uri: /home/basil-owiti/ML_RegPipeline_Endtoend/mlruns/644210549854279412/764fbbcf79424df381f8353ae4e76459/artifacts
+end_time: 1767040136078
+entry_point_name: ''
+experiment_id: '644210549854279412'
+lifecycle_stage: active
+run_id: 764fbbcf79424df381f8353ae4e76459
+run_name: smiling-robin-302
+run_uuid: 764fbbcf79424df381f8353ae4e76459
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1767040112934
+status: 3
+tags: []
+user_id: basil-owiti

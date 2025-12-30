@@ -1,0 +1,14 @@
+artifact_uri: /home/basil-owiti/ML_RegPipeline_Endtoend/mlruns/644210549854279412/4306aeb963ff4591b60b731cf022bc07/artifacts
+end_time: 1766924531199
+entry_point_name: ''
+experiment_id: '644210549854279412'
+lifecycle_stage: active
+run_id: 4306aeb963ff4591b60b731cf022bc07
+run_name: rebellious-goat-10
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1766924493111
+status: 3
+tags: []
+user_id: basil-owiti

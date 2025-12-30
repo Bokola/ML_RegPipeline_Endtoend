@@ -1,0 +1,15 @@
+artifact_uri: /home/basil-owiti/ML_RegPipeline_Endtoend/mlruns/644210549854279412/84946c364f92480797194b6b82109253/artifacts
+end_time: 1767031922492
+entry_point_name: ''
+experiment_id: '644210549854279412'
+lifecycle_stage: active
+run_id: 84946c364f92480797194b6b82109253
+run_name: angry-swan-373
+run_uuid: 84946c364f92480797194b6b82109253
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1767031891831
+status: 3
+tags: []
+user_id: basil-owiti

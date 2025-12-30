@@ -1,0 +1,14 @@
+artifact_uri: /home/basil-owiti/ML_RegPipeline_Endtoend/mlruns/644210549854279412/316ccc41661d4405951bc804d271fa1d/artifacts
+end_time: 1766915768481
+entry_point_name: ''
+experiment_id: '644210549854279412'
+lifecycle_stage: active
+run_id: 316ccc41661d4405951bc804d271fa1d
+run_name: adventurous-croc-160
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1766915742782
+status: 3
+tags: []
+user_id: basil-owiti

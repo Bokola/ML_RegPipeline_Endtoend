@@ -1,0 +1,14 @@
+artifact_uri: /home/basil-owiti/ML_RegPipeline_Endtoend/mlruns/644210549854279412/12d1d768bd2443db8f11cbcada343e80/artifacts
+end_time: 1766921122982
+entry_point_name: ''
+experiment_id: '644210549854279412'
+lifecycle_stage: active
+run_id: 12d1d768bd2443db8f11cbcada343e80
+run_name: bald-loon-14
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1766921097908
+status: 3
+tags: []
+user_id: basil-owiti

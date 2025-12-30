@@ -1,0 +1,14 @@
+artifact_uri: /home/basil-owiti/ML_RegPipeline_Endtoend/mlruns/644210549854279412/e21b885e31944532b54a09e7e4ff81e3/artifacts
+end_time: 1766914057728
+entry_point_name: ''
+experiment_id: '644210549854279412'
+lifecycle_stage: active
+run_id: e21b885e31944532b54a09e7e4ff81e3
+run_name: bittersweet-duck-320
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1766913893311
+status: 3
+tags: []
+user_id: basil-owiti

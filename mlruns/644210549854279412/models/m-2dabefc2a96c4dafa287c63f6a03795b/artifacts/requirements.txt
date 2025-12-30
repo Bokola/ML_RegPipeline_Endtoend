@@ -1,0 +1,5 @@
+mlflow==3.8.1
+xgboost==3.0.4
+pandas==2.1.1
+scikit-learn
+pyarrow

@@ -1,0 +1,14 @@
+artifact_uri: /home/basil-owiti/ML_RegPipeline_Endtoend/mlruns/644210549854279412/a55f3e7ac2d54a94b28e97f3c2be07dc/artifacts
+end_time: 1766921182451
+entry_point_name: ''
+experiment_id: '644210549854279412'
+lifecycle_stage: active
+run_id: a55f3e7ac2d54a94b28e97f3c2be07dc
+run_name: powerful-sow-333
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1766921164297
+status: 3
+tags: []
+user_id: basil-owiti

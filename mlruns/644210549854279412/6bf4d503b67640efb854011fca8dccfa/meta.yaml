@@ -1,0 +1,14 @@
+artifact_uri: /home/basil-owiti/ML_RegPipeline_Endtoend/mlruns/644210549854279412/6bf4d503b67640efb854011fca8dccfa/artifacts
+end_time: 1766918661250
+entry_point_name: ''
+experiment_id: '644210549854279412'
+lifecycle_stage: active
+run_id: 6bf4d503b67640efb854011fca8dccfa
+run_name: polite-dog-439
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1766918642384
+status: 3
+tags: []
+user_id: basil-owiti

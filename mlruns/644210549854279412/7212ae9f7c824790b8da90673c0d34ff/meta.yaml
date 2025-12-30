@@ -1,0 +1,14 @@
+artifact_uri: /home/basil-owiti/ML_RegPipeline_Endtoend/mlruns/644210549854279412/7212ae9f7c824790b8da90673c0d34ff/artifacts
+end_time: 1766919167494
+entry_point_name: ''
+experiment_id: '644210549854279412'
+lifecycle_stage: active
+run_id: 7212ae9f7c824790b8da90673c0d34ff
+run_name: flawless-penguin-653
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1766919157196
+status: 3
+tags: []
+user_id: basil-owiti

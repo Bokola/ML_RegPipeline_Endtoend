@@ -1,0 +1,14 @@
+artifact_uri: /home/basil-owiti/ML_RegPipeline_Endtoend/mlruns/644210549854279412/e5d17d8b387d4159ab2a93aecd5110b4/artifacts
+end_time: 1766912276644
+entry_point_name: ''
+experiment_id: '644210549854279412'
+lifecycle_stage: active
+run_id: e5d17d8b387d4159ab2a93aecd5110b4
+run_name: bemused-mule-988
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1766912271261
+status: 4
+tags: []
+user_id: basil-owiti

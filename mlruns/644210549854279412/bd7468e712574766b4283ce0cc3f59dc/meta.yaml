@@ -1,0 +1,14 @@
+artifact_uri: /home/basil-owiti/ML_RegPipeline_Endtoend/mlruns/644210549854279412/bd7468e712574766b4283ce0cc3f59dc/artifacts
+end_time: 1766922227039
+entry_point_name: ''
+experiment_id: '644210549854279412'
+lifecycle_stage: active
+run_id: bd7468e712574766b4283ce0cc3f59dc
+run_name: delightful-flea-882
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1766922206767
+status: 3
+tags: []
+user_id: basil-owiti

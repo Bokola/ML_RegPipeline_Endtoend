@@ -1,0 +1,14 @@
+artifact_uri: /home/basil-owiti/ML_RegPipeline_Endtoend/mlruns/644210549854279412/e000337e0a544ebdad79d27db4536273/artifacts
+end_time: 1766921458878
+entry_point_name: ''
+experiment_id: '644210549854279412'
+lifecycle_stage: active
+run_id: e000337e0a544ebdad79d27db4536273
+run_name: angry-cat-731
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1766921415295
+status: 3
+tags: []
+user_id: basil-owiti

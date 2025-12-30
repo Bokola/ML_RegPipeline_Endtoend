@@ -1,0 +1,14 @@
+artifact_uri: /home/basil-owiti/ML_RegPipeline_Endtoend/mlruns/644210549854279412/3570d25fdd7c4a60a0b6a88c88a6c91e/artifacts
+end_time: 1766921252227
+entry_point_name: ''
+experiment_id: '644210549854279412'
+lifecycle_stage: active
+run_id: 3570d25fdd7c4a60a0b6a88c88a6c91e
+run_name: amazing-midge-634
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1766921182457
+status: 3
+tags: []
+user_id: basil-owiti

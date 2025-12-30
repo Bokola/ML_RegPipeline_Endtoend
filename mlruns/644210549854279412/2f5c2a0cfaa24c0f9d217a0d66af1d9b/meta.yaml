@@ -1,0 +1,14 @@
+artifact_uri: /home/basil-owiti/ML_RegPipeline_Endtoend/mlruns/644210549854279412/2f5c2a0cfaa24c0f9d217a0d66af1d9b/artifacts
+end_time: 1766923698566
+entry_point_name: ''
+experiment_id: '644210549854279412'
+lifecycle_stage: active
+run_id: 2f5c2a0cfaa24c0f9d217a0d66af1d9b
+run_name: ambitious-jay-775
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1766923684631
+status: 3
+tags: []
+user_id: basil-owiti

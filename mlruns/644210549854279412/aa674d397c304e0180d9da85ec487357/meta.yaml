@@ -1,0 +1,14 @@
+artifact_uri: /home/basil-owiti/ML_RegPipeline_Endtoend/mlruns/644210549854279412/aa674d397c304e0180d9da85ec487357/artifacts
+end_time: 1766922703991
+entry_point_name: ''
+experiment_id: '644210549854279412'
+lifecycle_stage: active
+run_id: aa674d397c304e0180d9da85ec487357
+run_name: whimsical-skunk-109
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1766922671334
+status: 3
+tags: []
+user_id: basil-owiti

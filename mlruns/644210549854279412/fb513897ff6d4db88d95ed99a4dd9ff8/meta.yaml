@@ -1,0 +1,14 @@
+artifact_uri: /home/basil-owiti/ML_RegPipeline_Endtoend/mlruns/644210549854279412/fb513897ff6d4db88d95ed99a4dd9ff8/artifacts
+end_time: 1766915699036
+entry_point_name: ''
+experiment_id: '644210549854279412'
+lifecycle_stage: active
+run_id: fb513897ff6d4db88d95ed99a4dd9ff8
+run_name: lyrical-bee-476
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1766915664461
+status: 3
+tags: []
+user_id: basil-owiti

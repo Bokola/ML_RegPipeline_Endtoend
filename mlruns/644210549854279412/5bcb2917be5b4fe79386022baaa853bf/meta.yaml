@@ -1,0 +1,14 @@
+artifact_uri: /home/basil-owiti/ML_RegPipeline_Endtoend/mlruns/644210549854279412/5bcb2917be5b4fe79386022baaa853bf/artifacts
+end_time: 1766922671326
+entry_point_name: ''
+experiment_id: '644210549854279412'
+lifecycle_stage: active
+run_id: 5bcb2917be5b4fe79386022baaa853bf
+run_name: vaunted-bat-610
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1766922651153
+status: 3
+tags: []
+user_id: basil-owiti

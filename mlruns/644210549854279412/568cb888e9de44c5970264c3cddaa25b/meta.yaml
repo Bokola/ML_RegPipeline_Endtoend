@@ -1,0 +1,14 @@
+artifact_uri: /home/basil-owiti/ML_RegPipeline_Endtoend/mlruns/644210549854279412/568cb888e9de44c5970264c3cddaa25b/artifacts
+end_time: 1766920030861
+entry_point_name: ''
+experiment_id: '644210549854279412'
+lifecycle_stage: active
+run_id: 568cb888e9de44c5970264c3cddaa25b
+run_name: omniscient-shark-683
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1766920010195
+status: 3
+tags: []
+user_id: basil-owiti

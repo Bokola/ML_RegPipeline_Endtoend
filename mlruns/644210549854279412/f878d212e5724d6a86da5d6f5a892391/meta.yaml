@@ -1,0 +1,14 @@
+artifact_uri: /home/basil-owiti/ML_RegPipeline_Endtoend/mlruns/644210549854279412/f878d212e5724d6a86da5d6f5a892391/artifacts
+end_time: 1766922072675
+entry_point_name: ''
+experiment_id: '644210549854279412'
+lifecycle_stage: active
+run_id: f878d212e5724d6a86da5d6f5a892391
+run_name: beautiful-wasp-10
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1766922048615
+status: 3
+tags: []
+user_id: basil-owiti

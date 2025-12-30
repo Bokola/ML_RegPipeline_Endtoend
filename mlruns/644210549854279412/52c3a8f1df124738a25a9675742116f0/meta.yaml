@@ -1,0 +1,15 @@
+artifact_uri: /home/basil-owiti/ML_RegPipeline_Endtoend/mlruns/644210549854279412/52c3a8f1df124738a25a9675742116f0/artifacts
+end_time: 1767039998096
+entry_point_name: ''
+experiment_id: '644210549854279412'
+lifecycle_stage: active
+run_id: 52c3a8f1df124738a25a9675742116f0
+run_name: carefree-bird-940
+run_uuid: 52c3a8f1df124738a25a9675742116f0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1767039971446
+status: 3
+tags: []
+user_id: basil-owiti

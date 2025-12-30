@@ -1,0 +1,14 @@
+artifact_uri: /home/basil-owiti/ML_RegPipeline_Endtoend/mlruns/644210549854279412/605317f1e4b0457d824deb14f0c3f4a3/artifacts
+end_time: 1766919234069
+entry_point_name: ''
+experiment_id: '644210549854279412'
+lifecycle_stage: active
+run_id: 605317f1e4b0457d824deb14f0c3f4a3
+run_name: sassy-dog-509
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1766919211512
+status: 3
+tags: []
+user_id: basil-owiti

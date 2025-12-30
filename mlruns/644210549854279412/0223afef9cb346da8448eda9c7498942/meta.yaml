@@ -1,0 +1,15 @@
+artifact_uri: /home/basil-owiti/ML_RegPipeline_Endtoend/mlruns/644210549854279412/0223afef9cb346da8448eda9c7498942/artifacts
+end_time: 1767032604296
+entry_point_name: ''
+experiment_id: '644210549854279412'
+lifecycle_stage: active
+run_id: 0223afef9cb346da8448eda9c7498942
+run_name: hilarious-stoat-366
+run_uuid: 0223afef9cb346da8448eda9c7498942
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1767032531183
+status: 3
+tags: []
+user_id: basil-owiti

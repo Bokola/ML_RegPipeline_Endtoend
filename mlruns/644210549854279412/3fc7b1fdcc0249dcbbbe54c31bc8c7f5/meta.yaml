@@ -1,0 +1,14 @@
+artifact_uri: /home/basil-owiti/ML_RegPipeline_Endtoend/mlruns/644210549854279412/3fc7b1fdcc0249dcbbbe54c31bc8c7f5/artifacts
+end_time: 1766920069608
+entry_point_name: ''
+experiment_id: '644210549854279412'
+lifecycle_stage: active
+run_id: 3fc7b1fdcc0249dcbbbe54c31bc8c7f5
+run_name: clumsy-hog-205
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1766920060452
+status: 3
+tags: []
+user_id: basil-owiti

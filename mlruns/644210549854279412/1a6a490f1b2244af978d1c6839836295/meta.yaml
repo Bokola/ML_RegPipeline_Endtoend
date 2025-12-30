@@ -1,0 +1,14 @@
+artifact_uri: /home/basil-owiti/ML_RegPipeline_Endtoend/mlruns/644210549854279412/1a6a490f1b2244af978d1c6839836295/artifacts
+end_time: 1766924764592
+entry_point_name: ''
+experiment_id: '644210549854279412'
+lifecycle_stage: active
+run_id: 1a6a490f1b2244af978d1c6839836295
+run_name: learned-dove-879
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1766924745564
+status: 3
+tags: []
+user_id: basil-owiti

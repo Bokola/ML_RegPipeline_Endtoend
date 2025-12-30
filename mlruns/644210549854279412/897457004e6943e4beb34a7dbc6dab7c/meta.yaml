@@ -1,0 +1,14 @@
+artifact_uri: /home/basil-owiti/ML_RegPipeline_Endtoend/mlruns/644210549854279412/897457004e6943e4beb34a7dbc6dab7c/artifacts
+end_time: 1766924681321
+entry_point_name: ''
+experiment_id: '644210549854279412'
+lifecycle_stage: active
+run_id: 897457004e6943e4beb34a7dbc6dab7c
+run_name: gentle-bat-954
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1766924658402
+status: 3
+tags: []
+user_id: basil-owiti

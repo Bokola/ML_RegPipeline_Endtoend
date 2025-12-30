@@ -1,0 +1,14 @@
+artifact_uri: /home/basil-owiti/ML_RegPipeline_Endtoend/mlruns/644210549854279412/b6345d51cd2f4844b48f0cbccede9cc7/artifacts
+end_time: 1766924636375
+entry_point_name: ''
+experiment_id: '644210549854279412'
+lifecycle_stage: active
+run_id: b6345d51cd2f4844b48f0cbccede9cc7
+run_name: useful-ant-97
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1766924628550
+status: 3
+tags: []
+user_id: basil-owiti

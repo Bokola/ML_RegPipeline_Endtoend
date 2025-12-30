@@ -1,0 +1,14 @@
+artifact_uri: /home/basil-owiti/ML_RegPipeline_Endtoend/mlruns/644210549854279412/9d75ae1205e6468e9a29e0b47b80ef2c/artifacts
+end_time: 1766922993678
+entry_point_name: ''
+experiment_id: '644210549854279412'
+lifecycle_stage: active
+run_id: 9d75ae1205e6468e9a29e0b47b80ef2c
+run_name: spiffy-roo-482
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1766922951841
+status: 3
+tags: []
+user_id: basil-owiti

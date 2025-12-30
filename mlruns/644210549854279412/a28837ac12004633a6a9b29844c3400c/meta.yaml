@@ -1,0 +1,14 @@
+artifact_uri: /home/basil-owiti/ML_RegPipeline_Endtoend/mlruns/644210549854279412/a28837ac12004633a6a9b29844c3400c/artifacts
+end_time: 1766924628541
+entry_point_name: ''
+experiment_id: '644210549854279412'
+lifecycle_stage: active
+run_id: a28837ac12004633a6a9b29844c3400c
+run_name: monumental-dove-119
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1766924588174
+status: 3
+tags: []
+user_id: basil-owiti

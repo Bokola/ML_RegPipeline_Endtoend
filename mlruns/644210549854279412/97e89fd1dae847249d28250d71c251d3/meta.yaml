@@ -1,0 +1,14 @@
+artifact_uri: /home/basil-owiti/ML_RegPipeline_Endtoend/mlruns/644210549854279412/97e89fd1dae847249d28250d71c251d3/artifacts
+end_time: 1766919624686
+entry_point_name: ''
+experiment_id: '644210549854279412'
+lifecycle_stage: active
+run_id: 97e89fd1dae847249d28250d71c251d3
+run_name: nervous-calf-724
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1766919582420
+status: 3
+tags: []
+user_id: basil-owiti

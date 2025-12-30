@@ -1,0 +1,43 @@
+[project]
+name = "housing-regression-mle"
+version = "0.1.0"
+description = "End-to-end housing regression pipeline"
+readme = "README.md"
+requires-python = ">=3.11,<3.12"
+
+dependencies = [
+    "setuptools>=68.0.0",
+
+    # Core ML
+    "mlflow>=2.13,<3.0",
+    "scikit-learn>=1.3,<1.6",
+    "xgboost==3.0.4",
+    "lightgbm>=4.6.0",
+    "optuna>=4.5.0",
+
+    # Encoding
+    "category-encoders>=2.6,<2.8",
+
+    # Data
+    "numpy==1.26.4",
+    "pandas==2.1.1",
+    "pyarrow>=14,<23",
+
+    # Validation / viz
+    "evidently>=0.7.12",
+    "great-expectations==1.5.8",
+    "matplotlib>=3.8,<3.11",
+    "seaborn>=0.13.2",
+
+    # App / tooling
+    "fastapi>=0.116.1",
+    "streamlit>=1.48.1",
+    "nbformat>=5.10.4",
+    "pytest>=8.4.1",
+
+    # Pydantic compatibility
+    "pydantic>=2.5,<2.8",
+]
+
+[tool.uv]
+resolution = "highest"

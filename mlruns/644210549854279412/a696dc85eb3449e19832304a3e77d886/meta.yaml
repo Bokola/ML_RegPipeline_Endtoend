@@ -1,0 +1,14 @@
+artifact_uri: /home/basil-owiti/ML_RegPipeline_Endtoend/mlruns/644210549854279412/a696dc85eb3449e19832304a3e77d886/artifacts
+end_time: 1766923775763
+entry_point_name: ''
+experiment_id: '644210549854279412'
+lifecycle_stage: active
+run_id: a696dc85eb3449e19832304a3e77d886
+run_name: bright-loon-946
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1766923736534
+status: 3
+tags: []
+user_id: basil-owiti

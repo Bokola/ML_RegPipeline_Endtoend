@@ -1,0 +1,15 @@
+artifact_uri: /home/basil-owiti/ML_RegPipeline_Endtoend/mlruns/644210549854279412/c333792fa1304bb980af586e5270a26d/artifacts
+end_time: 1767036497928
+entry_point_name: ''
+experiment_id: '644210549854279412'
+lifecycle_stage: active
+run_id: c333792fa1304bb980af586e5270a26d
+run_name: redolent-boar-643
+run_uuid: c333792fa1304bb980af586e5270a26d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1767036446621
+status: 3
+tags: []
+user_id: basil-owiti
