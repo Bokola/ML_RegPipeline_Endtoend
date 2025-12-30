@@ -183,7 +183,8 @@ def tune_model(
         mlflow.log_metrics(best_metrics)
         mlflow.sklearn.log_model(best_model, artifact_path="model")
 
-    return best_params, study.best_trial.values
+    # return best_params, study.best_trial.values
+    return best_params, best_metrics
 
 if __name__ == "__main__":
     tune_model()
