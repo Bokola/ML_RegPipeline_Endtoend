@@ -53,3 +53,5 @@ jobs:
             --service housing-streamlit \
             --task-definition housing-streamlit \
             --force-new-deployment
+
+            
