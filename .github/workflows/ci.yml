@@ -30,7 +30,8 @@ jobs:
           
           docker build -t $ECR_REGISTRY/$ECR_REPOSITORY:$IMAGE_TAG -f Dockerfile .
           docker push $ECR_REGISTRY/$ECR_REPOSITORY:$IMAGE_TAG
-
+          docker tag $ECR_REGISTRY/$ECR_REPOSITORY:$IMAGE_TAG $ECR_REGISTRY/$ECR_REPOSITORY:latest
+          docker push $ECR_REGISTRY/$ECR_REPOSITORY:latest
 
       # Build and push housing-streamlit image
       - name: Build, Tag, and Push housing-streamlit
@@ -41,7 +42,8 @@ jobs:
           
           docker build -t $ECR_REGISTRY/$ECR_REPOSITORY:$IMAGE_TAG -f Dockerfile.streamlit .
           docker push $ECR_REGISTRY/$ECR_REPOSITORY:$IMAGE_TAG
- 
+          docker tag $ECR_REGISTRY/$ECR_REPOSITORY:$IMAGE_TAG $ECR_REGISTRY/$ECR_REPOSITORY:latest
+          docker push $ECR_REGISTRY/$ECR_REPOSITORY:latest
 
       # Deploy to ECS - Streamlit/API
       - name: Deploy housing-api-service
