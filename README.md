@@ -54,3 +54,5 @@ The training pipeline is fully automated to find the global minimum of the loss 
 Managed by **`uv`** for lightning-fast, reproducible dependency resolution.
 ```bash
 uv sync
+```
+![[API](http://housing-alb-203699086.us-east-1.elb.amazonaws.com/dashboard/)](dashboard.png)

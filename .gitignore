@@ -21,6 +21,7 @@ sdist/
 var/
 wheels/
 mlruns/
+README_files/
 share/python-wheels/
 *.egg-info/
 .installed.cfg
