@@ -52,11 +52,11 @@ jobs:
             --cluster housing-api-cluster \
             --service housing-streamlit \
             --task-definition housing-streamlit \
-            --load-balancers "[
-              {
-                \"targetGroupArn\": \"arn:aws:elasticloadbalancing:...\",
-                \"containerName\": \"housing-streamlit\",
-                \"containerPort\": 8501
-              }
-            ]" \
+            # --load-balancers "[
+            #   {
+            #     \"targetGroupArn\": \"arn:aws:elasticloadbalancing:...\",
+            #     \"containerName\": \"housing-streamlit\",
+            #     \"containerPort\": 8501
+            #   }
+            # ]" \
             --force-new-deployment
