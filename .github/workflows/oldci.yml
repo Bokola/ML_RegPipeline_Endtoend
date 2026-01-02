@@ -27,9 +27,10 @@ jobs:
           IMAGE_TAG=${GITHUB_SHA}
           ECR_REGISTRY=801574285740.dkr.ecr.us-east-1.amazonaws.com
           ECR_REPOSITORY=housing-api
-          
+
           docker build -t $ECR_REGISTRY/$ECR_REPOSITORY:$IMAGE_TAG -f Dockerfile .
           docker push $ECR_REGISTRY/$ECR_REPOSITORY:$IMAGE_TAG
+
           docker tag $ECR_REGISTRY/$ECR_REPOSITORY:$IMAGE_TAG $ECR_REGISTRY/$ECR_REPOSITORY:latest
           docker push $ECR_REGISTRY/$ECR_REPOSITORY:latest
 
@@ -39,24 +40,25 @@ jobs:
           IMAGE_TAG=${GITHUB_SHA}
           ECR_REGISTRY=801574285740.dkr.ecr.us-east-1.amazonaws.com
           ECR_REPOSITORY=housing-streamlit
-          
+
           docker build -t $ECR_REGISTRY/$ECR_REPOSITORY:$IMAGE_TAG -f Dockerfile.streamlit .
           docker push $ECR_REGISTRY/$ECR_REPOSITORY:$IMAGE_TAG
+
           docker tag $ECR_REGISTRY/$ECR_REPOSITORY:$IMAGE_TAG $ECR_REGISTRY/$ECR_REPOSITORY:latest
           docker push $ECR_REGISTRY/$ECR_REPOSITORY:latest
 
-      # Deploy to ECS - Streamlit/API
+      # Deploy to ECS - API
       - name: Deploy housing-api-service
         run: |
           aws ecs update-service \
             --cluster housing-api-cluster \
+            --service housing-api \
+            --force-new-deployment
+
+      # Deploy to ECS - Streamlit
+      - name: Deploy housing-streamlit-service
+        run: |
+          aws ecs update-service \
+            --cluster housing-api-cluster \
             --service housing-streamlit \
-            --task-definition housing-streamlit \
-            --load-balancers "[
-              {
-                \"targetGroupArn\": \"arn:aws:elasticloadbalancing:...\",
-                \"containerName\": \"housing-streamlit\",
-                \"containerPort\": 8501
-              }
-            ]" \
             --force-new-deployment
