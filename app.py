@@ -12,7 +12,7 @@ API_URL = os.environ.get("API_URL", "http://127.0.0.1:8000/predict")
 S3_BUCKET = os.getenv("S3_BUCKET", "housing-regression-pipeline")
 AWS_REGION = os.getenv("AWS_REGION", "us-east-1")
 
-s3 = boto3.client("s3", region_name=REGION)
+s3 = boto3.client("s3", region_name=AWS_REGION)
 
 def load_from_s3(key, local_path):
     """Download from S3 if not already cached locally."""
