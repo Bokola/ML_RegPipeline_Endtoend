@@ -21,7 +21,7 @@ logger = logging.getLogger("housing-api")
 # -------------------------------------------------
 # Config (IAM role is picked up automatically)
 # -------------------------------------------------
-S3_BUCKET = os.getenv("S3_BUCKET", "housing-regression-pipeline")
+S3_BUCKET = os.getenv("S3_BUCKET", "housing-regression-data-pipeline")
 AWS_REGION = os.getenv("AWS_REGION", "us-east-1")
 
 s3 = boto3.client("s3", region_name=AWS_REGION)
